@@ -7,7 +7,7 @@ int main() {
     int swapped = (remaining % 10) * 10 + (remaining / 10); // Міняємо місцями цифри
     int x = last_digit * 100 + swapped; // Формуємо число
 
-    printf("x: %d\n", x);  // Очікуваний результат: 456
+    printf("x: %d\n", x);  // Виводимо правильне значення x
     return 0;
 }
 
