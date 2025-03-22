@@ -1,0 +1,21 @@
+{
+    // Використовуйте IntelliSense, щоб дізнатися про можливі атрибути.
+    // Наведіть вказівник миші, щоб переглянути описи наявних атрибутів.
+    // Для отримання додаткової інформації відвідайте: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "D:\\codeproject\\git-Lab 1\\main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+
+
+    ]
+}
